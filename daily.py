@@ -1,5 +1,6 @@
 import os
 import random
+import secrets
 
 def clrscr():
     os.system('cls' if os.name == "nt" else 'clear')
